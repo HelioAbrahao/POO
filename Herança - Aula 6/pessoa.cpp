@@ -29,5 +29,4 @@ void Pessoa::setEndereco(string e){
 void Pessoa::imprime(){
     cout << "Nome: " << nome << endl;
     cout << "Endereco: " << endereco << endl; 
-
 }
