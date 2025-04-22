@@ -11,6 +11,7 @@ class Aluno : public Pessoa{
         Aluno(string, string, string, int);
         ~Aluno(){}
         void setCurso(string); 
+        void imprime();
 };
 
 
